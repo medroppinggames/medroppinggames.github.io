@@ -132,7 +132,7 @@ Your Personal Information is stored offsite in a manner that reasonably protects
 
 # Policy Updates
 
-This Policy may change from time to time. The most current version of our Privacy Policy can be found at http://medroppinggames.github.io/privacy. We will always keep this up to date so that you know what information we will collect from you, how we may use it, and when we may disclose it.
+This Policy may change from time to time. The most current version of our Privacy Policy can be found at https://github.com/medroppinggames/medroppinggames.github.io/blob/master/popcorn-dropper-privacy-policy.md. We will always keep this up to date so that you know what information we will collect from you, how we may use it, and when we may disclose it.
 
 # Complaints
 
