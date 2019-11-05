@@ -140,7 +140,7 @@ You can lodge a complaint with us about any breach of our Privacy Policy at the 
 
 # Privacy Policy Contact Information
 
-If you have any questions about our Privacy Policy, please contact us at: fataldevelop@gmail.com
+If you have any questions about our Privacy Policy, please contact us at: medroppinggames@gmail.com
 
  
 Last updated 04 November 2019
