@@ -1,8 +1,8 @@
-# Popcorn Dropper Privacy Policy
+# MeDroppingGames Privacy Policy
 
-We value your comments, suggestions and feedback. Our Privacy Policy sets out how we collect, use and disclose “personal information” and other “non-personal information” we have gathered about you about you in relation to our game “Popcorn Dropper”, (“Game” which term includes the associated website).
+We value your comments, suggestions and feedback. Our Privacy Policy sets out how we collect, use and disclose “personal information” and other “non-personal information” we have gathered about you about you in relation to our games.
 
-By using our Game, you acknowledge and consent to the terms of this privacy policy.
+By using our games, you acknowledge and consent to the terms of this privacy policy.
 
 This policy will let you know:
   - What information (often referred to as ‘data’) is collected from you;
@@ -14,11 +14,9 @@ We will comply with all relevant and applicable legislative requirements, and, i
 
 # User Age Limits
 
-Our games and our website are not aimed at children under 13 years of age. Nevertheless, we acknowledge that our Game may unintentionally appeal to children. 
+Our games are not aimed at children under 13 years of age. Nevertheless, we acknowledge that our games may unintentionally appeal to children. 
 
-An age gate is in place at the launch of the Game, which shall direct each user to the part of the Game that is applicable to that user’s age bracket. 
-
-We do not collect any personally identifiable information within the age gated part of our Game for children, nor do we intentionally direct interest-based advertising to anyone under the age of 13 years. 
+We do not collect any personally identifiable information of children under the age of 13 years, nor do we intentionally direct interest-based advertising to anyone under the age of 13 years. 
 
 If you believe that We have inadvertently collected information from a person under the age of 13, please contact us at the email address below and the information will be permanently deleted. We do not permit behaviourally targeted advertising to children under the age of 13 years.
 
@@ -85,9 +83,9 @@ Third Party Service Providers
 
 # Advertising
 
-Advertisements from third party ad networks may be displayed in our Games from time to time. All reasonable endeavours are used to ensure that these ad networks comply with all applicable legislation in the provision of their services towards us. 
+Advertisements from third party ad networks may be displayed in our games from time to time. All reasonable endeavours are used to ensure that these ad networks comply with all applicable legislation in the provision of their services towards us. 
 
-If you click on any advertisements through Our game, the advertisers may use cookies and other web-tracking technologies to collect data, to provide targeted advertisements to you. Some of this may be personal information, and some of it non-personal information. We recommend that you review the terms of use and privacy policy for any advertiser with whom you are interacting before doing so. 
+If you click on any advertisements through our game, the advertisers may use cookies and other web-tracking technologies to collect data, to provide targeted advertisements to you. Some of this may be personal information, and some of it non-personal information. We recommend that you review the terms of use and privacy policy for any advertiser with whom you are interacting before doing so. 
 
 The list of our ad networks privacy policies may be found here:
 
@@ -132,7 +130,7 @@ Your Personal Information is stored offsite in a manner that reasonably protects
 
 # Policy Updates
 
-This Policy may change from time to time. The most current version of our Privacy Policy can be found at https://github.com/medroppinggames/medroppinggames.github.io/blob/master/popcorn-dropper-privacy-policy.md. We will always keep this up to date so that you know what information we will collect from you, how we may use it, and when we may disclose it.
+This Policy may change from time to time. The most current version of our Privacy Policy can be found at https://medroppinggames.github.io/privacy. We will always keep this up to date so that you know what information we will collect from you, how we may use it, and when we may disclose it.
 
 # Complaints
 
@@ -143,4 +141,4 @@ You can lodge a complaint with us about any breach of our Privacy Policy at the 
 If you have any questions about our Privacy Policy, please contact us at: medroppinggames@gmail.com
 
  
-Last updated 04 November 2019
+Last updated 05 November 2019
