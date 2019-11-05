@@ -131,9 +131,7 @@ Your Personal Information is stored offsite in a manner that reasonably protects
 
 # Policy Updates
 
-This Policy may change from time to time. The most current version of our Privacy Policy can be found at 
-
-    https://medroppinggames.github.io/privacy-policy. 
+This Policy may change from time to time. The most current version of our Privacy Policy can be found at <https://medroppinggames.github.io/privacy-policy>. 
 We will always keep this up to date so that you know what information we will collect from you, how we may use it, and when we may disclose it.
 
 # Complaints
