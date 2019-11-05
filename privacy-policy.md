@@ -103,6 +103,7 @@ Some non-personal information may be gathered while you use Our games. Non-perso
 Our apps may also contain APIs from other third parties. We do not control how they interact with you and you should ensure that you consent to the terms of use and privacy policies offered by the third party services before providing them with your information.
 
 Our third-party partners, and their privacy policies are as follows:
+
     Unity Analytics: https://unity3d.com/legal/privacy-policy
 
     Apple: https://www.apple.com/legal/privacy/en-ww/
@@ -130,7 +131,10 @@ Your Personal Information is stored offsite in a manner that reasonably protects
 
 # Policy Updates
 
-This Policy may change from time to time. The most current version of our Privacy Policy can be found at https://medroppinggames.github.io/privacy-policy. We will always keep this up to date so that you know what information we will collect from you, how we may use it, and when we may disclose it.
+This Policy may change from time to time. The most current version of our Privacy Policy can be found at 
+
+    https://medroppinggames.github.io/privacy-policy. 
+We will always keep this up to date so that you know what information we will collect from you, how we may use it, and when we may disclose it.
 
 # Complaints
 
