@@ -1,146 +1,362 @@
 # MeDroppingGames Privacy Policy
 
+  
+
 We value your comments, suggestions and feedback. Our Privacy Policy sets out how we collect, use and disclose “personal information” and other “non-personal information” we have gathered about you about you in relation to our games.
 
-By using our games, you acknowledge and consent to the terms of this privacy policy.
+# Consent to Policy
 
-This policy will let you know:
-  - What information (often referred to as ‘data’) is collected from you;
-  - How your information is used;
-  - With whom your information may be shared;
-  - How you can access, update, or delete your information.
+By installing and using the application, you consent to this Privacy Policy and the collection, use and sharing of the personal data described in this Policy. If you do not agree, do not install the application or use the application.
 
-We will comply with all relevant and applicable legislative requirements, and, in the event of any inconsistency, the legislative requirements will override the provisions of this document.
+# Scope of Policy
+
+The scope of this Privacy Policy is limited to the personal data collected by you using our applications and services.
+
+This application may contain links to external sites. Clicking on a third-party link will redirect you to that site. Please note that we have no control and responsibility for the content and Privacy Policies of third-party sites or services.
+
+
+  
 
 # User Age Limits
 
-Our games are not aimed at children under 13 years of age. Nevertheless, we acknowledge that our games may unintentionally appeal to children. 
+  
 
-We do not collect any personally identifiable information of children under the age of 13 years, nor do we intentionally direct interest-based advertising to anyone under the age of 13 years. 
+Our games are not aimed at children under 13 years of age. Nevertheless, we acknowledge that our games may unintentionally appeal to children.
+
+  
+
+We do not collect any personally identifiable information of children under the age of 13 years, nor do we intentionally direct interest-based advertising to anyone under the age of 13 years.
+
+  
 
 If you believe that We have inadvertently collected information from a person under the age of 13, please contact us at the email address below and the information will be permanently deleted. We do not permit behaviourally targeted advertising to children under the age of 13 years.
 
-# What data do we collect?
+  
 
-We collect data in three ways. 
-A.     Data collected automatically; 
-B.     Data you provide us; 
-C.     Data collected by our partners.
+# Information and Data we collect from you
 
-A.      Data collected automatically
-Certain data is collected automatically. This includes:
+  
 
-  - Data about your game progress;
+We collect and process the following personal data and information when you using our applications and services:
 
-  - Data about your device, such as device name and operating system, browser type and language;
+Data automatically collected from applications
 
-  - Data about your use of the Service, such as gameplay data and your interactions with other players inside the Service; and
+  
 
-  - Your IP addresses, and mobile device identifiers (such as your device ID, advertising ID, MAC address, IMEI). Please note, there are ways to prevent this, which are outlined at ‘Third Party Service Providers’ below.
+your device type and model, manufacturer, operating system platform and version, general location (region, country, city, etc), application version, start and end of advertisement browsing, game play status (stage start, end, and operation information)
 
-B.         Data you provide us
+  
 
-  - We collect and store your email when you sign up for our newsletter, or where you nominate to specifically allow our games to collect your player name and your email. We will also keep your contact details if you contact us for a particular purpose. 
+IP address and Advertising ID (if you use Apple devices, IDFA / if you use Android devices, AAID)
 
-  - Newsletters Mail-Outs and Promotional Materials
+Information you provide when contacting us
 
-  - When you opt in to join our mailing list for the purpose of receiving our newsletter, we will use that to provide you with direct marketing communications about upcoming games, features of our websites and other events and promotions related to our products. 
+  
 
-  - You may unsubscribe from our newsletter at any time. All you need to do is unsubscribe from the link in the letter, or let us know in writing that you want to be removed.
+Contact information such as your name and email address, and any other information we need to provide support
 
-  - If you wish to receive promotional information, you will be asked to provide your email address to us. This information is gathered by a third-party partner that collects and compiles that information for us so that we may undertake mail outs to large numbers of people. 
+Data obtained from advertising partners
 
-C.         Data we collect from our third-party partners
+  
 
-To operate and manage our services we need to use third party service providers from time to time. A list of those parties can be found in this privacy policy. The type of information we might collect from them includes:
+We may obtain personal information about you from third-party advertising partners, depending on the permission you give to the partner.
 
-  - Data we receive if you link a third-party tool with the Service;
+Collecting of special categories of personal data
 
-  - Demographic data (to determine the coarse location of your IP address)
+  
 
-  - Data from platforms that the games run on; and
+We do not knowingly collect any special categories of personal data (personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation) or personal data relating to criminal convictions and offences or related security measures when providing applications and services.
 
-  - Data for advertising and analytics purposes.
+#  Purpose and Legal basis for use of information
 
-# How do we use the data we collect?
+ 1. **How we use your information**
 
-Data collected can be personal to you or non-personal, and sometimes data that doesn’t appear to be personal can become personal if certain other facts are learned. No matter how we come to collect your data, we will always treat it in accordance with this document, and any applicable legislation.
+  
 
-# What is Personal Information?
+We collect and use your data and information for the following purposes.
 
-‘Personal Information’ is information that identifies you as an individual. This is only collected by us if you submit it to us directly.
+**Provision and improvement of game services**
 
-# Player Feedback
+  
 
-If you contact us with a comment or query, we keep a copy of any personal information you provide. This is so that we can respond to your comments and questions as a part of our commitment to providing you with player support. If you contact us directly for any reason, We also keep a copy of that correspondence.
+We use your personal data to distribute applications and provide gaming services, and to improve our services.
 
-# What about Sensitive Information? 
+  
 
-Sensitive information includes information about such things as an individual’s racial or ethnic origin, political opinions, membership of a political association, religious or philosophical beliefs, membership of a professional body, criminal records or health information.
+In order to properly provide game services, it is necessary to collect, record and use information such as game progress.
 
-We will not attempt to obtain nor record any sensitive information.
-Third Party Service Providers
+  
 
-# Advertising
+We use your information to analyze your personal data and to correct game glitches, improve stability, and develop new services to provide you with a better experience.
 
-Advertisements from third party ad networks may be displayed in our games from time to time. All reasonable endeavours are used to ensure that these ad networks comply with all applicable legislation in the provision of their services towards us. 
+  
 
-If you click on any advertisements through our game, the advertisers may use cookies and other web-tracking technologies to collect data, to provide targeted advertisements to you. Some of this may be personal information, and some of it non-personal information. We recommend that you review the terms of use and privacy policy for any advertiser with whom you are interacting before doing so. 
+We also use the information when sending notifications, including app updates, support and management messages.
 
-The list of our ad networks privacy policies may be found here:
+**Security**
 
-    Unity Ads: https://unity3d.com/legal/privacy-policy
+  
 
-# Opting out of Targeted Advertising
+We use your information to enhance the security and security of our services.
 
-You can opt-out of interest-based advertising on mobile applications by checking the privacy settings of your Android or iOS device and selecting "limit ad tracking" (Apple iOS) or "opt-out of interest-based ads" (Android). This will also prevent mobile device identifiers from being collected.
+  
 
-# Collection of other ‘Non-Personal’ Information
+We use the information to monitor suspicious and unexpected use, keep our services secure and stable, and send you notifications, such as security alerts.
 
-Some non-personal information may be gathered while you use Our games. Non-personal information is general, non-identifiable and anonymous information that is gathered for statistical, analytical and research purposes such as the improvement of our games (for example, bug fixes).
+  
 
-# Third parties
-Our apps may also contain APIs from other third parties. We do not control how they interact with you and you should ensure that you consent to the terms of use and privacy policies offered by the third party services before providing them with your information.
+We also use your information to identify and prevent fraud in advertising campaigns.
 
-Our third-party partners, and their privacy policies are as follows:
+**Advertising display and promotion**
 
-    Unity Analytics: https://unity3d.com/legal/privacy-policy
+  
 
-    Apple: https://www.apple.com/legal/privacy/en-ww/
+We use your information to display ads for our games in applications released by other providers and to display third-party advertisements in our games. While you are playing our games, we may display advertisements for our other games.
 
-    Google Play: https://policies.google.com/technologies/partner-sites
-    https://policies.google.com/privacy
+  
 
-# Access to Your Data, and Permanent Deletion of Your Data
+We use your personal data to understand your preferences and display better ads.
 
-We will retain your data only as necessary for our legitimate business interests, such as to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+  
 
-No matter how we come in contact with your data, you have the right to access the data We hold about you and to update and/or correct it, subject to certain exceptions. 
+We also use your personal data to contact you about promotions, events and other news about the services we or our partners offer.
 
-# Data Subject Requests
+**Providing customer support**
 
-In the event that you send a data subject request to Us, or one of our third-party partners informs us that you have contacted them directly about your personal data they collected while you were using our service, We will respond to that request in accordance with any applicable legislation.
+  
 
-If you wish to know what data we hold about you, if any, please make out your request to us in writing at the address listed below. Please be aware that in order to protect the information in Our database, We will require identification from you before releasing any information.
+We use your personal data to respond to your inquiries and provide customer support.
 
-# Disclosure and Security of Your Information
+**Legal obligation**
 
-We will not sell, trade, rent or disclose any of the personal information you provide to us for any reason, without your prior consent. Otherwise, your Personal Information will only be disclosed where required or allowable by law.
+  
 
-Your Personal Information is stored offsite in a manner that reasonably protects it from misuse, loss, unauthorised access, modification or disclosure.
+We use your information where necessary to comply with our legal obligations.
 
-# Policy Updates
+2. **Legal Basis**
 
-This Policy may change from time to time. The most current version of our Privacy Policy can be found at <https://medroppinggames.github.io/privacy-policy>. 
-We will always keep this up to date so that you know what information we will collect from you, how we may use it, and when we may disclose it.
+ We collect and use personal data of users subject to GDPR or the equivalents on the following legal basis:
 
-# Complaints
+  
 
-You can lodge a complaint with us about any breach of our Privacy Policy at the address below.
+(1) Performance of contractual obligations
+
+  
+
+You must use your information to fulfill your obligations under your contract (to provide the services you request, improve our services, and provide customer support).
+
+  
+
+(2) Consent
+
+  
+
+You have provided us with your consent to use personal data and information for specific purposes.
+
+  
+
+This applies to information displayed within the application that is personalized to your preferences and to which information is shared with advertising partners for that purpose. This consent can be withdrawn at any time.
+
+  
+
+(3) Legal obligations
+
+  
+
+We collect and process your personal data where necessary to comply with the legal obligations we follow.
+
+  
+
+(4) legitimate interests
+
+  
+
+If (1) or (2) or (3) does not apply, we need to use your personal data for our legitimate interests or for legitimate interests pursued by third parties.
+
+  
+
+We use your personal data to analyze, track and prevent fraud, notify, cross-promote and advertise to provide you with free or low-cost services, improve our services and improve your data Special attention can be paid to the right to protection.
+
+# Sharing your Information
+
+  
+
+We may share the your information with partners for the purposes described above.
+
+  
+
+The privacy policies of each partner are listed in the "Partner List" section.
+
+  
+
+We may disclose your information in response to law, legal process, lawsuits, and the demands of public and governmental authorities inside and outside your country of residence.
+
+  
+
+We may disclose your information to public authorities if we believe necessary to protect and challenge the legal rights of us, our customers and partners, and to exercise our legal rights in accordance with relevant laws.
+
+  
+
+We will not notify you of such disclosures unless required by law.
+
+**Partner list**
+
+  
+
+We may share your information with the following partners to improve our app and provide more tailored advertising.
+
+  
+
+We may receive your personal data from advertising partners.
+
+  
+
+Google : https://policies.google.com/privacy
+
+Firebase : https://firebase.google.com/support/privacy
+
+Unity : https://unity3d.com/legal/privacy-policy
+
+Facebook : https://www.facebook.com/privacy/explanation
+
+Tenjin : https://www.tenjin.io/privacy
+
+AppLovin : https://www.applovin.com/privacy
+
+TapJoy : https://www.tapjoy.com/legal/#privacy-policy
+
+ironSource : https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy
+
+Vungle : https://vungle.com/privacy/
+
+Fyber : https://www.fyber.com/privacy-policy/
+
+Mintegral : https://static.mintegral.com/document/privacy
+
+Smaato : https://www.smaato.com/privacy/ https://www.smaato.com/partner-list/
+
+InMobi : https://www.inmobi.com/privacy-policy/ https://www.inmobi.com/privacy-policy-for-eea/
+
+ByteDance : https://job.bytedance.com/en/legal/privacy
+
+Pangle : https://ad.oceanengine.com/union/media/privacy
+
+MoPub : https://www.mopub.com/legal/privacy
+
+AdColony : https://www.adcolony.com/privacy-policy/
+
+Tiktok : https://www.tiktok.com/legal/privacy-policy
+
+  
+
+# Security of personal information
+
+  
+
+In order to prevent the loss, destruction, falsification, damage, leakage, etc. of personal information, we will introduce appropriate and reasonable level of security measures to protect personal information. When outsourcing the handling of personal information, we strongly urge you to comply with applicable personal information protection laws and work to maintain the confidentiality of information.
+
+  
+
+We always make every effort to protect your personal information, but we do not guarantee or represent that your information is fully protected.
+
+# Rights of users under GDPR or the equivalents
+
+  
+
+If you are under GDPR or the equivalents, you have the following rights regarding the processing of personal data:
+
+  
+
+When you exercise the following rights, you can send a request to the contacts listed in the "Contacts" section.
+
+  
+
+We may ask you to provide certain information in order to identify and correct your data.
+
+**Right to withdraw consent**
+
+  
+
+You have the right to withdraw your consent at any time in accordance with Article 7(3), paragraph 3 of the GDPR.
+
+  
+
+If you wish to withdraw your consent, please contact us at the address specified in this policy to withdraw your consent. The withdrawal of this consent cannot affect the legality of the treatment based on the consent before the withdrawal.
+
+  
+
+If you withdraw your consent, you will not be able to continue using the applications and services.
+
+**Right of access and rectification**
+
+  
+
+You have the right to receive confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data in accordance with Article 15 of the GDPR.
+
+  
+
+You also have the right to obtain from us without undue delay the rectification of inaccurate personal data concerning you in accordance with Article 16 of the GDPR.
+
+**Right of erasure and restriction of processing**
+
+  
+
+In accordance with Article 17 of the GDPR, you shall have the right to obtain from us the erasure of personal data concerning you without undue delay.
+
+  
+
+You also have the right to restrict the handling of personal data in accordance with Article 18 of the GDPR.
+
+  
+
+However, if your personal data is legitimately used to provide our services and for other purposes, we may reject your request or ask you to postpone the response.
+
+**Right to data portability**
+
+  
+
+In accordance with Article 20 of the GDPR, you shall have the right to receive the personal data which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from us to which the personal data have been provided.
+
+  
+
+And you have the right to have the personal data transmitted directly from us to another, where technically feasible.
+
+**Right to object**
+
+  
+
+in accordance with Article 21 of the GDPR, you shall have the right to object, on grounds relating to your particular situation, at any time to processing of personal data concerning you.
+
+**Right to lodge a complaint with a supervisory authority**
+
+  
+
+In accordance with Article 77 of the GDPR, without prejudice to any other administrative or judicial remedy, you shall have the right to lodge a complaint with a supervisory authority, in particular in the Member State of his or her habitual residence, place of work or place of the alleged infringment if you considers that the processing of personal data relating to you infringes this Regulation.
+
+**Transferring of your personal data**
+
+  
+
+We may transfer and process your personal data from your country or region of residence to Japan and other countries around the world. We may share your information with international organizations as partner. Please note that these countries and jurisdictions may not have the same data protection laws as your country.
+
+# Data retention period
+
+  
+
+We will retain your information for as long as necessary to provide the service, unless required by law or unless we accept your request to delete the information.
+
+  
+
+We will retain and use your information for as long as we need it to comply with our legal obligations.
+
+  
 
 # Privacy Policy Contact Information
 
+  
+
 If you have any questions about our Privacy Policy, please contact us at: medroppinggames@gmail.com
 
- 
-Last updated 05 November 2019
+  
+
+Last updated 16 March 2022
