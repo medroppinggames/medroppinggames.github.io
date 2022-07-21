@@ -247,6 +247,10 @@ AdColony : https://www.adcolony.com/privacy-policy/
 
 Tiktok : https://www.tiktok.com/legal/privacy-policy
 
+AppsFlyer : https://www.appsflyer.com/legal/privacy-policy/
+
+GameAnalytics : https://gameanalytics.com/privacy/
+
   
 
 # Security of personal information
