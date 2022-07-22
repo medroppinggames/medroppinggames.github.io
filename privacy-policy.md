@@ -353,6 +353,17 @@ We will retain your information for as long as necessary to provide the service,
 
 We will retain and use your information for as long as we need it to comply with our legal obligations.
 
+# Deletion and Modifications of Information
+
+You or, as applicable, your legal guardian or agent, may request, by sending us an email to medroppinggames@gmail.com, the following:
+
+a. to receive access to, amend, and/or delete your Personal Information and/or, as applicable, Children Persistent Device Identifier, that we may hold, and/or that we cease collection or use of your Personal Information; and/or
+
+b. that we request Third Parties who collected through the Apps the User’s Personal Information and/or, as applicable, the Children Persistent Device Identifier, to do the same. We will use reasonable efforts to ensure that such Third Parties do so.
+
+For some of our Apps we may develop in-app deletion request functionality which can be used by you in addition to the address above.
+
+After you have stopped using the Apps, we will retain User’s Personal Information, and, as applicable, Children Persistent Device Identifier, collected through the use of the App for a reasonable period, as is necessary to fulfil the purposes for which it was collected, as those are specified above, including to comply with our legal or business requirements, to resolve disputes, prevent fraud, and/or to enforce these Terms and our agreements, all as permitted under applicable privacy laws.
   
 
 # Privacy Policy Contact Information
